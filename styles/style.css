@@ -115,6 +115,22 @@ background-color: #daf0f1;
 #third{
     background-color: #e4ecdc;
 }
+.feature-tree{
+    width: 1440px;
+    height: 24px;
+    display: flex;
+    text-align: center;
+    justify-content:space-around;   
+}
+.anchor-t{
+width: 181px;
+height: 35px;
+color: black;
+font-size: 20px;
+font-weight: 500;
+
+
+}
 
 
 
